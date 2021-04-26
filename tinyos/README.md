@@ -4,6 +4,11 @@ chos
 
 ![os](doc/os.png)
 
+github
+=======
+[https://github.com/chobits/tinyos](https://github.com/chobits/tinyos)
+
+
 Quick start
 ===========
 ```
