@@ -1,0 +1,11 @@
+*.o
+*.a
+Image
+System.map
+boot/bootsect
+boot/setup
+tools/build
+tools/system
+kernel/chr_drv/keyboard.s
+
+
