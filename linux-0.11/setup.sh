@@ -51,6 +51,11 @@ install_dep_i386() {    #安装需要的32位依赖文件
     sudo apt-get install libxpm4:i386
     echo "Done"
     echo "* Install x86(i386) dependencies for x86_64(amd64) arch finished Done"
+
+
+    # for gdb
+    sudo apt-get install libncurses5:i386
+    sudo apt-get install libexpat1:i386
 }
 
 # Common Code
